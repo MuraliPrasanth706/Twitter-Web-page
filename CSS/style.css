@@ -1,1 +1,88 @@
-
+body{
+    font-family: "Montserrat";
+}
+#title{
+    background-color: rgb(30,156,241);
+}
+.container{
+  padding: 3% 15%;
+}
+.header-font{
+    font-family:"'Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 7%;
+    text-align: center;
+}
+.navbar-brand{
+    font-size: 4rem;
+    font-weight: bold;
+}
+.download-btn{
+    padding: 10%;
+}
+h3{
+    font-family: "Montserrat-Bold";
+}
+.features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon {
+    color: rgb(30,156,241);
+    margin: 6%;
+}
+.icon:hover{
+    color: aqua;
+}
+#title2{
+    background-color: rgb(30,156,241);
+    font-family: "Montserrat-Black";
+    padding: 3%;
+}
+.twitter-space{
+    text-align: center;
+    height: 700px;
+}
+.img2{
+    padding: 3%;
+}
+.beta{
+    padding: 18%;
+}
+.beta1{
+    padding: 2%;
+    padding-right: 10%;
+    font-weight: bold;
+}
+.carousel-item{
+    height: 500px;
+}
+.vpn{
+  padding: 3%;
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  font-size: xx-large;
+  font-weight: bolder;
+}
+#pricing{
+    padding: 100px;
+}
+.pricing2{
+    padding: 3%;
+}
+.footer1{
+    text-align: center;
+}
+.features2{
+    text-align: center;
+}
+.socialmedia{
+    padding:-100px;
+}
+.feature-box2{
+    padding: 30px;
+}
